@@ -1,0 +1,52 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "fname": "abhay",
+      "lname": "chaskar",
+      "username": "abhayrc",
+      "email": "abhay@g.com",
+      "password": 1234
+    },
+    {
+      "id": 2,
+      "fname": "akshay",
+      "lname": "chaskar",
+      "username": "akshayrc",
+      "email": "akshay@g.com",
+      "password": 4321
+    },
+    {
+      "fname": "Abhay",
+      "lname": "Chaskar",
+      "username": "jbkvjh",
+      "email": "abhayrc.521@gmail.com",
+      "password": "7897",
+      "id": 3
+    },
+    {
+      "fname": "Pankaj",
+      "lname": "Chopade",
+      "username": "fec1301",
+      "email": "chopade@gmail.com",
+      "password": "7897",
+      "id": 4
+    },
+    {
+      "fname": "Abhay",
+      "lname": "Chaskar",
+      "username": "wegwe",
+      "email": "abhayrc.521@gmail.com",
+      "password": "5656",
+      "id": 5
+    },
+    {
+      "fname": "Abhay",
+      "lname": "Chaskar",
+      "username": " abhayrc12",
+      "email": "abh@gmail.com",
+      "password": "1234",
+      "id": 6
+    }
+  ]
+}
